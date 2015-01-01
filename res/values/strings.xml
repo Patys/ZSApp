@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ZS</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_zastepstwa">Zastępstwa</string>
+    <string name="title_activity_plan_lekcji">Plan Lekcji</string>
+	<string name="string_zastepstwa">Zastępstwa</string>
+	<string name="string_plan_lekcji">Plan Lekcji</string>
+	<string name="string_sprawdz">Sprawdź</string>
+</resources>
